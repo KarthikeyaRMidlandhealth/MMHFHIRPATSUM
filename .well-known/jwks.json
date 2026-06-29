@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "bridge-2026-01",
+      "n": "oYWNkWP6HFwZmLaLVh3cAr5qIwkRorwHu01U3EjAgelSJf6C_t3D_oy2-epSHs1NfJ6-E-MSyoNptk8ZOwq8WM77cE7vZFbJq0PvO6hk-5pZ5sogDFo4IAfngdwCeS_L8eJJRRUinak5GRkAV7kSN_qwe9OtNXV4aGKtq5U_eUz2Q8id3Me71eoDAS6BRW9_of1cEaZL5bQoVoxb1n5NRqPZP8fWIiDSMjELtz1ykFJFqfXYjApAqGyBxNjLLxcM1tG2RRISaHDEKUoDP9PUEYmSaJQiXSFEThJavqV-FVTz6iuMZFDemzcaBPJ5GakMltrloUMFnnssbn19EZ-Ovw",
+      "e": "AQAB"
+    }
+  ]
+}
